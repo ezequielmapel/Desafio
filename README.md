@@ -35,3 +35,7 @@ resposta e assim que chegar irá 'escrever' para o usuário de forma dinâmica o
 | FRAMEWORK + |    + JQUERY     |    + ExpressJs     |    Dockerfile   |
 | FRAMEWORK + |    +  AJAX      |    + Mongoose      |   Docker Compose|
 
+**OBS:** A porta utilizada será a 80.
+
+## 3.0 - WakaTime
+[Clique para acessar](https://wakatime.com/@5874775c-fd4d-45b9-8554-c7be548708eb/projects/azugumubcd)
