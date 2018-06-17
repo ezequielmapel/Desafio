@@ -28,7 +28,7 @@ resposta e assim que chegar irá 'escrever' para o usuário de forma dinâmica o
 
 <hr>
 
-## 2.0 - Ferramenta utilizadas
+## 2.0 - Ferramentas Utilizadas
 |             |    Página WEB   |        Servidor    |    Container    |   Banco de Dados |
 |-------------|-----------------|--------------------|-----------------|------------------|
 |             |   HTML5 + CSS3  |       NodeJs       |      Docker     |      MongoDB     |
